@@ -14,7 +14,7 @@ the idea is to create an open and 'serverless' inventory and payment process for
 ## inventory
 
 - each _product_ in the inventory is made up of _components_.
-- the _availaibe products list_ can be calculated dynamically from the _availble components list_ and the _product descriptions_
+- the _availaibe_products_list_ can be calculated dynamically from the _availble_components_list_ and the _product_descriptions_
 - if there are mulitple products using the same limited part the user should be able to select either but not both to order
 - should be an easy way for me to define new products and edit the amount of components/products in stock
 - should be some kind of alert to me if a part is out of stock
